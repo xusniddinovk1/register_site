@@ -1,0 +1,12 @@
+asgiref==3.8.1
+certifi==2025.1.31
+distlib==0.3.9
+Django==5.1.7
+dotenv==0.9.9
+filelock==3.18.0
+packaging==24.2
+platformdirs==4.3.7
+python-dotenv==1.0.1
+sqlparse==0.5.3
+tzdata==2025.1
+virtualenv==20.29.3
